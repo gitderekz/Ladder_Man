@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+IMAGE(png)      SIZE(px)        SPECIFICATION      
+
+Character       66 X 127      4 different position when going up. 
+Enemy/Arrow     21 x 21
+Ladder          21 x 21
+Background      700 x 700
+Coin            11 x 11
+Door            21 x 127
+Start Button    280 x 126
+Exit Button     280 x 126  
+Restart Button  280 x 126
